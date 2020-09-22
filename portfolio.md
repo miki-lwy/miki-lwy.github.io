@@ -6,9 +6,11 @@ categories: private
 permalink: /portfolio/
 ---
 # Spotify's Music Analysis - 17 October 2018
-##### This is my first school project in Hyper Island
+#### This is my first school project in Hyper Island
+
 You can find the source code at GitHub:
 [Spotify](https://github.com/miki-lwy/spotify)
+and the original presentation [HERE](https://drive.google.com/file/d/1cgluz0P8YpWzI08buF6mijGV1Jqswv95/view?usp=sharing)
 
 
 This project is going to answer the following questions:
@@ -94,5 +96,6 @@ X Do happiest countries listen to more happy songs?
 ![Audio feature - Indonesia](/assets/images/Music Valence Indonesia.png)
 
 Thank you for your reading :)
+
 I hope you will find it interesting.
 
