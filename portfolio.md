@@ -108,9 +108,9 @@ Well...It fluctuated around 0.45 - 0.5 this time. It's a bit flat. I failed to m
 
 
 ## Can I make a conclusion?
-X Does HK anti-extradition protest affect the users from HK listening to more upset songs?
+**X Does HK anti-extradition protest affect the users from HK listening to more upset songs?**
 
-X Do happiest countries listen to more happy songs?
+**X Do happiest countries listen to more happy songs?**
 
 
 
