@@ -124,6 +124,8 @@ Let's make another hypothesis!
 
 So, I run the same methodology but with all the countries this time.
 And we got the below result:
+
+
 **PART III - DO PEOPLE LISTEN TO MORE HAPPY SONGS DURING HAPPY HOLIDAYS?**
 
 ## Music valence over time across different countries
