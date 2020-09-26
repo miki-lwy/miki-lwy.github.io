@@ -134,12 +134,6 @@ And we got the below result:
 The darker the color, the happier the song the users listened to.
 As for Germany, the users seemed to listen to more happy songs around mid-December (X'Mas) and also from July to August (Summer time). We also observed similar pattern for Belgium, Singapore, the USA and Argentina.
 
-Let's see one more example - Indonesia.
-
-## ONE MORE EXAMPLE ...
-![Audio feature - Indonesia](/assets/images/Music Valence Indonesia.png)
-
-Why couldn't we find the similar pattern as before? Moreover, it exhibited a different pattern. The first half is darker than the second half. But if we are aware of the location of Indonesia. It's actually situated in the equator. That means when we have winter, they have summer. When we have summer, they have winter. That explained what could happen here!
 
 
 Thank you for your reading :)
