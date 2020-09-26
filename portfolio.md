@@ -7,9 +7,8 @@ permalink: /portfolio/
 ---
 # Spotify - Music Taste and Sentiment in Global Music Streaming 
 17 October 2018
-#### This is my first school project in Hyper Island
 
-You can find the source code at GitHub:
+This is my first school project in Hyper Island. You can find the source code at GitHub:
 [Spotify](https://github.com/miki-lwy/spotify)
 and the original presentation [HERE](https://drive.google.com/file/d/1cgluz0P8YpWzI08buF6mijGV1Jqswv95/view?usp=sharing)
 
