@@ -5,7 +5,8 @@ date: Sun Apr 26 09:49:43 2020
 categories: private
 permalink: /portfolio/
 ---
-# Spotify's Music Analysis - 17 October 2018
+# Spotify - Music Taste and Sentiment in Global Music Streaming 
+17 October 2018
 #### This is my first school project in Hyper Island
 
 You can find the source code at GitHub:
